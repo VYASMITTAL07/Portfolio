@@ -1,0 +1,6 @@
+# OS junk
+Thumbs.db
+.DS_Store
+
+# local preview server output
+__pycache__/

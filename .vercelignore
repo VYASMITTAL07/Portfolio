@@ -1,0 +1,5 @@
+# local tooling — not part of the deployed site
+dev-server.py
+.claude/
+README.md
+assets/img/README.txt
